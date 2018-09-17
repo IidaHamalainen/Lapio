@@ -10,3 +10,4 @@ tomaatteja
 kurkkuja
 salaattia
 leikkelettä
+karkkia
